@@ -1,5 +1,7 @@
 # 🎬 CineMaxx – React Movie Management App
 
+🔗 Vercel Deployment : https://pr-srch-sort-filter.vercel.app/
+
 A modern **React-based Movie Management application** that allows users to **search, filter, sort, add, update, and delete movies**. The project demonstrates real-world CRUD functionality with clean UI, routing, and state management, deployed on **Vercel**.
 
 ---
